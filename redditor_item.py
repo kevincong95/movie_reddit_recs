@@ -1,7 +1,7 @@
 import praw
 import numpy as np
 import nltk
-import redddicts
+import redd_dicts
 import matplotlib.pyplot as plt
 import datetime as dt
 from textblob import TextBlob as tb
