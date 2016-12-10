@@ -53,6 +53,7 @@ The code below was executed only once. It parsed an XML file containing
 each document consisted of the tags corresponding to a movie and was
 labeled according to its predefined mood rating (once for each different
 mood)
+NOTE TO READER: XML file w/ mood data available upon request.
 '''
 ##def get_mood_ratings(category): //produce corpora
 ##    mood_array = []
